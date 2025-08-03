@@ -49,7 +49,7 @@ interests:
   - Particle-based Optimization Methods
 
 
-experience:
+education:
   - area: Principal Investigator, SPP 2410
     institution: German Research Foundation
     date_start: 2024-06-01
