@@ -49,24 +49,29 @@ interests:
   - Particle-based Optimization Methods
 
 
-education:
+experience:
   - area: Principal Investigator, SPP 2410
     institution: German Research Foundation
-    date_start: 2024
-    date_end: 2026
+    date_start: 2024-06-01
+    date_end: 2027-05-31
     summary: |
       Project: [Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)](https://www.spp2410.uni-stuttgart.de/SPP-Projects/05_friedrich-goettlich/) 
-  - area: Postdoc in hyperbolic problems and optimzation and control of PDEs
-    date_start: 2022
-    date_end: 2025
-    institution: Group of [Michael Herty](https://www.igpm.rwth-aachen.de/team/herty) at RWTH Aachen University
-  - area: Postdoc in analysis and numerics of nonlocal PDEs
-    data_start: 2021
-    institution: Group of [Simone Göttlich](https://www.wim.uni-mannheim.de/goettlich/) at University of Mannheim
+  - area: Postdoc in hyperbolic problems and control of PDEs
+    date_start: 2022-01-01
+    date_end: 2025-08-31
+    institution: RWTH Aachen University
+    summary: |
+     Group of [Michael Herty](https://www.igpm.rwth-aachen.de/team/herty)
+  - area: Postdoc in numerical analysis of nonlocal PDEs
+    date_start: 2021-09-01
+    date_end: 2021-12-31
+    institution: University of Mannheim
+    summary: |
+      Group of [Simone Göttlich](https://www.wim.uni-mannheim.de/goettlich/)
   - area: PhD in applied mathematics
-    institution: Stanford University
-    date_start: 2017
-    date_end: 2021
+    institution: University of Mannheim
+    date_start: 2017-09-01
+    date_end: 2021-08-31
     summary: |
       Thesis: Traffic flow models with nonlocal velocity. Supervised by [Simone Göttlich](https://www.wim.uni-mannheim.de/goettlich/).
     button:
