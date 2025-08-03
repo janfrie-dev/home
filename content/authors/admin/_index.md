@@ -72,8 +72,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.researchgate.net/publication/356106210_Traffic_flow_models_with_nonlocal_velocity'
- ---
- 
+---
+
 ## About Me
 
 Currently, I am a postdoctoral researcher at RWTH Aachen University. My research deals with hyperbolic partial differential equations, their applications and in particular their numerical approximation. One focus is on equations involving nonlocal terms. Here, I am one of the PIs of the project 'Balance laws with space-dependent nonlocalities' within the DFG SPP-2410 to explore those equations further. Moreover, I have a great passion for teaching and have gained a lot of experience in this area in Aachen, at the University of Mannheim and recently at the IIPE, India.
