@@ -35,10 +35,14 @@ profiles:
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6961-8998
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dr-jan-friedrich-a8b349117/
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=57204648771
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Jan-Friedrich-3?ev=hdr_xprf
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=p0E0RQ0AAAAJ&hl=de
+   - icon: brands/linkedin
+    url: https://www.linkedin.com/in/dr-jan-friedrich-a8b349117/
 
 
 interests:
