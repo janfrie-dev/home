@@ -39,7 +39,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: list
+      view: citation
   - block: collection
     id: talks
     content:
