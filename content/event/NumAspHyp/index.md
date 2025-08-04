@@ -1,5 +1,5 @@
 ---
-title: Nonlocal balance laws: Numerical schemes and applications to traffic flow
+title: Nonlocal balance laws - Numerical schemes and applications to traffic flow
 
 event: Numerical Aspects of Hyperbolic Balance Laws and Related Problems
 event_url: https://youngnumaspconf24.wordpress.com/
