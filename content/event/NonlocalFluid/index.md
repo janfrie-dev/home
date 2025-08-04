@@ -1,14 +1,14 @@
 ---
-title: Conservation laws with space-dependent nonlocalities
+title: Numerical schemes for conservation laws with space-dependent nonlocalities
 
-event: Numerical methods in CSE (Oberseminar)
-event_url: https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/
+event: Nonlocal Modelling in Fluidmechanical Applications 
+event_url: https://www.wim.uni-mannheim.de/goettlich/workshop/
 
-location: Munich, Germany
+location: Mannheim, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-03'
+date: '2025-09-02'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

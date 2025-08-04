@@ -1,14 +1,14 @@
 ---
-title: Conservation laws with space-dependent nonlocalities
+title: Source identification via a consensus-based optimization algorithm using different moment hierarchies
 
-event: Numerical methods in CSE (Oberseminar)
-event_url: https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/
+event: Control and Optimization in the Age of Data (Workshop)
+event_url: https://num.math.uni-bayreuth.de/en/conferences/gamm-fa-2024/index.php
 
-location: Munich, Germany
+location: Bayreuth, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-03'
+date: '2024-09-19'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -18,7 +18,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -1,14 +1,14 @@
 ---
-title: Conservation laws with space-dependent nonlocalities
+title: Nonlocal balance laws: Numerical schemes and applications to traffic flow
 
-event: Numerical methods in CSE (Oberseminar)
-event_url: https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/
+event: Numerical Aspects of Hyperbolic Balance Laws and Related Problems
+event_url: https://youngnumaspconf24.wordpress.com/
 
-location: Munich, Germany
+location: Ferrara, Italy
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-03'
+date: '2024-12-19'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

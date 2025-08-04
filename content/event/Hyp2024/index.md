@@ -1,14 +1,14 @@
 ---
-title: Conservation laws with space-dependent nonlocalities
+title: Lyapunov Stabilization for Nonlocal Traffic Flow Models
 
-event: Numerical methods in CSE (Oberseminar)
-event_url: https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/
+event: Hyp 2024
+event_url: https://www.hyp2024.sjtu.edu.cn/
 
-location: Munich, Germany
+location: Shanghai, China
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-03'
+date: '2024-07-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -18,7 +18,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
