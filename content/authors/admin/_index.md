@@ -41,7 +41,7 @@ profiles:
     url: https://www.researchgate.net/profile/Jan-Friedrich-3?ev=hdr_xprf
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=p0E0RQ0AAAAJ&hl=de
-   - icon: brands/linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/dr-jan-friedrich-a8b349117/
 
 
