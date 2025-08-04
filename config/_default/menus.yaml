@@ -16,9 +16,6 @@ main:
   - name: Short CV
     url: experience/
     weight: 20
-  - name: Contact
-    url: /#Contact
-    weight: 50
   #- name: Projects
   #  url: projects/
   #  weight: 30

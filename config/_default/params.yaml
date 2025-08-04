@@ -31,8 +31,9 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "center"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Jan Friedrich"
@@ -40,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jan Friedrich.'
+    notice: '© {year} Jan Friedrich. Office 127.2, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany.'
     license:
       enable: true
       allow_derivatives: false
