@@ -50,18 +50,14 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: blank
-    content:
-      title: Contact
-      body: |-
-        <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
-
-          <div style="flex: 1; min-width: 250px;">
-            📧 <strong>Email:</strong> <a href="mailto:friedrich@igpm.rwth-aachen.de">friedrich@igpm.rwth-aachen.de</a><br>
-            📍 <strong>Location:</strong> Office 127.2, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany<br>
-          </div>
-
-        </div>
+  - - block: html
+  content:
+    title: Contact
+    body: |-
+      <div style="min-width: 250px;">
+          <strong>Email:</strong> <a href="mailto:friedrich@igpm.rwth-aachen.de">friedrich@igpm.rwth-aachen.de</a><br>
+          <strong>Location:</strong> Office 127.2, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany<br>
+      </div>
     design:
       background: light
   - block: cta-card
