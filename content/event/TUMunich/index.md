@@ -1,6 +1,5 @@
 ---
 title: Conservation laws with space-dependent nonlocalities
-
 event: Oberseminar: Numerical methods in CSE
 event_url: https://www.math.cit.tum.de/math/forschung/gruppen/numerical-analysis/oberseminar-numerical-methods-in-cse/
 
@@ -18,7 +17,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
