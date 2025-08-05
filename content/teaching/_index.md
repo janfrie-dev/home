@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Lectures
       filters:
         folders:
           - teaching
@@ -21,3 +21,7 @@ sections:
       view: article-grid
       columns: 2
 ---
+
+## Exercise classes
+
+- **Mathematics for Civil Engineers 1**: 2024
