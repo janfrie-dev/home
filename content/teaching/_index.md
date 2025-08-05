@@ -39,7 +39,18 @@ sections:
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University), WT20, WT19 (University of Mannheim)
         - **Numerical Methods for Ordinary Differential Equations**: WT21 (University of Mannheim)
         - **Numerical Methods for Partial Differential Equations**: ST21, ST20, ST19 (University of Mannheim)
-        - **Numerics**: WT20, !T19, WT18 (University of Mannheim)
+        - **Numerics**: WT20, WT19, WT18, WT16, WT15 (University of Mannheim)
+        - **Analysis for Business Informatics**: ST19 (University of Mannheim)
+        - **Linear Optimization**: WT17 (University of Mannheim)
+        - **Analysis 1**: WT 15 (University of Mannheim)
+    design:
+      columns: '2'
+  - block: markdown
+    content:
+      title: 'Seminars'
+      subtitle: ''
+      text: |-
+        - **Modelling and Simulation**: ST19, ST18, (University of Mannheim)
     design:
       columns: '2'
 #  - block: collection
