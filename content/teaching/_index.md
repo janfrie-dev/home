@@ -29,5 +29,5 @@ sections:
 
         **Mathematics for Civil Engineers 2**: 2025, RWTH Aachen University
     design:
-      columns: '1'
+      columns: '2'
 ---
