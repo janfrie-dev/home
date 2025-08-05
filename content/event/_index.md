@@ -1,6 +1,6 @@
 ---
 title: Recent & Upcoming Conferences
-cms_exclude: true
+#cms_exclude: true
 #url: talk
 
 # View

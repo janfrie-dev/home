@@ -20,8 +20,14 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    content:
+      title: 'Exercise classes'
+      subtitle: ''
+      text: |-
+        **Mathematics for Civil Engineers 1**: 2024, RWTH Aachen University
+
+        **Mathematics for Civil Engineers 2**: 2025, RWTH Aachen University
+    design:
+      columns: '1'
 ---
-
-## Exercise classes
-
-- **Mathematics for Civil Engineers 1**: 2024
