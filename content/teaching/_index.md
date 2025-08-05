@@ -11,7 +11,6 @@ cascade:
 
 sections:
   - block: markdown
-    id: teaching
     content:
       title: 'Current semester'
       subtitle: ''
