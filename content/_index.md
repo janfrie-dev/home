@@ -30,6 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: 'Projects'
+      subtitle: ''
+      text: |-
+        **OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients**, Exploratory Reserach Space Open Seed Fund 2025, RWTH Aachen University , together with Wenhui Shi and Thomas Stiehl, 2025 - 2026 
+
+        **Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)**, DFG-SPP 2410: CoScaRa, 2024 - 2026 
+
+        **Design and development of numerical scheme for nonlocal conservation laws in multi-dimension**, Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF), together with Dr. Samala Rathan, 2025 
+    design:
+      columns: '2'
   - block: collection
     content:
       title: Recent Publications

@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Ongoing Projects
-      text: Here are a selection of projects that I am currently working on.
+      title: Ongoing Projects (under constrution)
+      text: Here are a selection of projects that I am currently working on. This webpage is still under construction.
       filters:
         folders:
           - project
