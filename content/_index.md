@@ -35,7 +35,7 @@ sections:
       title: 'Projects'
       subtitle: ''
       text: |-
-        **OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients**, Exploratory Reserach Space Open Seed Fund 2025, RWTH Aachen University , together with Wenhui Shi and Thomas Stiehl, 2025 - 2026 
+        **[OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients](https://www.rwth-aachen.de/go/id/boqymy/lidx/1)**, [Exploratory Reserach Space Open Seed Fund 2025](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/lidx/1/), RWTH Aachen University , together with [Wenhui Shi](https://sites.google.com/site/wenhuipde/) and [Thomas Stiehl](http://www.thomas-stiehl.de/), 2025 - 2026 
 
         **Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)**, DFG-SPP 2410: CoScaRa, 2024 - 2026 
 
