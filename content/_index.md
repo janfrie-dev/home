@@ -45,8 +45,8 @@ sections:
         - **Design and development of numerical scheme for nonlocal conservation laws in multi-dimension**<br>
           [Paired Early Career Fellowship in Applied Research (PECFAR)](https://www.igstc.org/home/pecfar2024/call_text)
           Indo-German Science & Technology Centre (IGSTC, BMBF), together with [Samala Rathan](https://sites.google.com/view/rathansamala/home), 2025 
-    design:
-      columns: '2'
+  #  design:
+  #    columns: '2'
   - block: collection
     content:
       title: Recent Publications
@@ -66,7 +66,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+  #    columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
