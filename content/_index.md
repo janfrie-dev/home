@@ -35,14 +35,14 @@ sections:
       title: 'Projects'
       subtitle: ''
       text: |-
-        - [OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients](https://www.rwth-aachen.de/go/id/boqymy/lidx/1)
+        - [OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients](https://www.rwth-aachen.de/go/id/boqymy/lidx/1)<br>
           [Exploratory Reserach Space](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/lidx/1/) Open Seed Fund 2025
           RWTH Aachen  University , together with [Wenhui Shi](https://sites.google.com/site/wenhuipde/) and [Thomas Stiehl](http://www.thomas-stiehl.de/), 2025 - 2026 
 
-        - [Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)](https://www.spp2410.uni-stuttgart.de/SPP-Projects/05_friedrich-goettlich/)
+        - [Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)](https://www.spp2410.uni-stuttgart.de/SPP-Projects/05_friedrich-goettlich/)<br>
           [DFG-SPP 2410: CoScaRa](https://www.spp2410.uni-stuttgart.de/), 2024 - 2026 
         
-        - Design and development of numerical scheme for nonlocal conservation laws in multi-dimension
+        - **Design and development of numerical scheme for nonlocal conservation laws in multi-dimension**<br>
           [Paired Early Career Fellowship in Applied Research (PECFAR)](https://www.igstc.org/home/pecfar2024/call_text)
           Indo-German Science & Technology Centre (IGSTC, BMBF), together with [Samala Rathan](https://sites.google.com/view/rathansamala/home), 2025 
     design:

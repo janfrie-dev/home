@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jan Friedrich. Office 127.2, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany.'
+    notice: '© {year} Jan Friedrich. Office 127, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany.'
     license:
       enable: true
       allow_derivatives: false
