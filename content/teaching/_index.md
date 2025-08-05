@@ -17,14 +17,18 @@ sections:
       subtitle: ''
       text: |-
       - **Mathematics for Civil Engineers 2** (Excercise class)
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: 'Lectures'
       subtitle: ''
       text: |-
-      - **Applications of scalar hyperbolic conservation laws**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
+      - **[Applications of scalar hyperbolic conservation laws](https://www.iipe.ac.in/ASHCL/workshop/)**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
       - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University)
       - **Numerical Methods for Ordinary Differential Equations**: WT21 (University of Mannheim)
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: 'Exercise classes'
