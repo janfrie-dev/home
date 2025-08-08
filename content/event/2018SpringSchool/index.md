@@ -1,13 +1,13 @@
 ---
-title:  Traffic flow models with nonlocal velocity - The singular limit problem
+title: A Godunov type scheme for a class of scalar conservation laws with non-local flux
 
-event: HYP 2022
+event: Spring School 2018 - From Particle Dynamics to Gradient Flows
 
-location: Malaga, Spain
+location: Kaiserslautern, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-20'
+date: '2018-02-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

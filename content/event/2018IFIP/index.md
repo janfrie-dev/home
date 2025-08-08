@@ -1,13 +1,13 @@
 ---
-title:  Traffic flow models with nonlocal velocity - The singular limit problem
+title: Traffic flow models with non-local flux and approaches for network models
 
-event: HYP 2022
+event: IFIP TC 7 Conference on System Modelling and Optimization
 
-location: Malaga, Spain
+location: Essen, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-20'
+date: '2018-06-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

@@ -1,13 +1,13 @@
 ---
-title:  Traffic flow models with nonlocal velocity - The singular limit problem
+title: Network Models and Numerical Methods for Traffic Flow with Non-Local Flux Terms
 
-event: HYP 2022
+event: DMV Student Conference
 
-location: Malaga, Spain
+location: Paderborn, Germany
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-20'
+date: '2018-03-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
