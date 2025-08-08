@@ -20,7 +20,7 @@ image:
 
 - **[Hirschegg Workshop On Conservation Laws](https://www.hirschegg.ovgu.de/)**, Sep. 2025
 
-## As Organizer
+## 🌍 Organizer
 
 - [Recent Trends in Optimization and Control: Follow-up Workshop](https://www.igpm.rwth-aachen.de/workshop/optcon2024), *Organizing & Scientific Committee*, Dakar, Senegal, Oct. 2024
 - [Recent Trends in Optimization and Control: Short course and Workshop](https://www.igpm.rwth-aachen.de/workshop/optcon2023), *Organizing & Scientific Committee*, Pertoria, South Africa, Sep. 2023
@@ -29,4 +29,4 @@ image:
 - **13th International Conference on Monte Carlo Methods and Applications**, *Local Organizer*, virtual, Aug. 2021
 
 
-## Recent talks
+## ⌛Recent talks

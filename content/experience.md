@@ -20,9 +20,10 @@ sections:
       is_education_first: false
   - block: markdown
     content:
-      title: 'Research Stays'
+      title: ''
       subtitle: ''
       text: |-
+        ### Research Stays
         - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb. 2025, *financed by Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF)*
         - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb.-Mar. 2024, *financially supported by IIPE*
         - **Arizona State University (ASU)**, Phoenix, USA, Aug. 2019, *financially supported by DAAD-PPP USA*
