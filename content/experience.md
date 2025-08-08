@@ -13,13 +13,25 @@ sections:
   - block: resume-experience
     content:
       username: admin
-      button:
-        text: Download CV
-        url: uploads/resume.pdf  
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-
+  - block: markdown
+    content:
+    title: Research stays
+    text: |-
+      - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb. 2025, *financed by Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF)*
+      - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb.-Mar. 2024, *financially supported by IIPE*
+      - **Arizona State University (ASU)**, Phoenix, USA, Aug. 2019, *financially supported by DAAD-PPP USA*
+      - **INRIA, Sophia Antipolis**, France, July and Nov. 2019, *financially supported by DAAD France and PHC Procope*
+      - **INRIA, Sophia Antipolis**, France, Jan. 2019, Research Tandem, *financially supported by DAAD within the IPID4all program*
+  - block: markdown
+    content:
+    text: ""
+    # Show a call-to-action button under your biography? (optional)
+    button:
+      text: Download full CV
+      url: uploads/resume.pdf
 ---
