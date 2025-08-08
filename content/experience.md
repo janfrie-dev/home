@@ -33,5 +33,5 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-      {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+      {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 ---
