@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Projects'
+      title: '💡 Projects'
       subtitle: ''
       text: |-
         - [OPSF884 - Regulation and Stabilization of Stem Cell Dynamics in Blood Cancer and Bone Marrow Failure Patients](https://www.rwth-aachen.de/go/id/boqymy/lidx/1)<br>
@@ -49,7 +49,7 @@ sections:
   #    columns: '2'
   - block: collection
     content:
-      title: Recent Publications
+      title: 📚 Recent Publications
       text: ""
       filters:
         folders:
@@ -60,7 +60,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
+      title: 💬 Recent Talks
       filters:
         folders:
           - event
