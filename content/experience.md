@@ -20,8 +20,8 @@ sections:
       is_education_first: false
   - block: markdown
     content:
-      title: 'Exercise classes'
+      title: 'Research Stays'
       subtitle: ''
       text: |-
-        - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University
+        - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb. 2025, *financed by Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF)*
 ---
