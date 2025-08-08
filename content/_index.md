@@ -18,10 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
-        text: 'Read Thesis'
-        url: 'https://www.researchgate.net/publication/356106210_Traffic_flow_models_with_nonlocal_velocity'
-    design:
+      design:
       css_class: dark
       background:
         color: black
