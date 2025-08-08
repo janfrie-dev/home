@@ -16,7 +16,7 @@ image:
   filename: ''
 ---
 
-## Upcoming
+## ⏳ Upcoming
 
 - **[Hirschegg Workshop On Conservation Laws](https://www.hirschegg.ovgu.de/)**, Sep. 2025
 
