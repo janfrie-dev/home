@@ -18,4 +18,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: markdown
+    content:
+      title: 'Exercise classes'
+      subtitle: ''
+      text: |-
+        - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University
 ---
