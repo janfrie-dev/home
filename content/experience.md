@@ -33,7 +33,5 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-      button:
-        text: Download full CV
-        url: uploads/resume.pdf
+      {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 ---
