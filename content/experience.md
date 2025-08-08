@@ -28,7 +28,7 @@ sections:
         - **Arizona State University (ASU)**, Phoenix, USA, Aug. 2019, *financially supported by DAAD-PPP USA*
         - **INRIA, Sophia Antipolis**, France, July and Nov. 2019, *financially supported by DAAD France and PHC Procope*
         - **INRIA, Sophia Antipolis**, France, Jan. 2019, Research Tandem, *financially supported by DAAD within the IPID4all program*
-      #button:
-      #  text: Download full CV
-      #  url: uploads/resume.pdf
+      button:
+        text: Download full CV
+        url: uploads/resume.pdf
 ---
