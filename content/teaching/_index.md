@@ -3,6 +3,10 @@ title: Teaching
 summary: My courses
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "2rem"
+
 cascade:
   - _target:
       kind: page
