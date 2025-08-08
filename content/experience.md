@@ -24,8 +24,8 @@ sections:
       subtitle: ''
       text: |-
         ### Research Stays
-        - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb. 2025, *financed by Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF)*
-        - **Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb.-Mar. 2024, *financially supported by IIPE*
+        - #####**Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb. 2025, *financed by Paired Early Career Fellowship in Applied Research (PECFAR), Indo-German Science & Technology Centre (IGSTC, BMBF)*
+        - ######**Indian Institute of Petroleum and Energy (IIPE)**, Visakhapatnam, India, Feb.-Mar. 2024, *financially supported by IIPE*
         - **Arizona State University (ASU)**, Phoenix, USA, Aug. 2019, *financially supported by DAAD-PPP USA*
         - **INRIA, Sophia Antipolis**, France, July and Nov. 2019, *financially supported by DAAD France and PHC Procope*
         - **INRIA, Sophia Antipolis**, France, Jan. 2019, Research Tandem, *financially supported by DAAD within the IPID4all program*
