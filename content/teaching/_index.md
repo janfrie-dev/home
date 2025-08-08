@@ -17,7 +17,7 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: 'Current semester'
+      title: '👨‍🏫 Current semester'
       subtitle: ''
       text: |-
         - **Mathematics for Civil Engineers 2** (Excercise class)
@@ -25,7 +25,7 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: 'Lectures'
+      title: '💭 Lectures'
       subtitle: ''
       text: |-
         - **[Applications of scalar hyperbolic conservation laws](https://www.iipe.ac.in/ASHCL/workshop/)**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
@@ -35,7 +35,7 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: 'Exercise classes'
+      title: '✍ Exercise classes'
       subtitle: ''
       text: |-
         - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University)
