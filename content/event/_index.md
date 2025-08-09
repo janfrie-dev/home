@@ -5,9 +5,7 @@ title: Conferences
 #url: talk
 
 # View
-view: article-grid
-design:
-  columns: 1
+view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
