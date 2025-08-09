@@ -120,7 +120,7 @@
 
 
 
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 justify-between mt-6 dark:text-gray-300">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-between mt-6 dark:text-gray-300">
 
     {{ with $person.interests }}
     <div class="">
@@ -129,6 +129,22 @@
         {{ range . }}
         <li>
           {{ . | markdownify | emojify }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $person.work }}
+    <div class="">
+      <div class="section-subheading mb-3">{{ i18n "work" | markdownify }}</div>
+      <ul class="">
+        {{ range . }}
+        <li class="flex items-start gap-3">
+          {{ partial "functions/get_icon" (dict "name" "briefcase" "attributes" "class='flex-shrink-0 w-5 h-5 mt-1'") }}
+          <div class="description">
+            <p class="text-sm">{{ .company_name }}</p>
+          </div>
         </li>
         {{ end }}
       </ul>
