@@ -67,12 +67,7 @@ sections:
       count: 6
     design:
       view: article-grid
-      date_format: "Jan 2006"
-      show_authors: true
-      show_dates: true
-      show_event: true
-      show_locations: true
-      show_summary: false
+      date_format: "January 2006"
       columns: 2
 
   - block: cta-card

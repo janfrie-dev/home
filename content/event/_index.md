@@ -5,10 +5,9 @@ title: Conferences
 #url: talk
 
 # View
-view: card-simple
-
+view: article grid
 design:
-  # Hugo date format
+  columns: 1
   date_format: 'January 2006'
 
 # Optional cover image (relative to `assets/media/` folder).
