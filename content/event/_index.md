@@ -5,10 +5,9 @@ title: Conferences
 #url: talk
 
 # View
-view: article grid
+view: article-grid
 design:
   columns: 1
-  date_format: 'January 2006'
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
