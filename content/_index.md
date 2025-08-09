@@ -65,10 +65,8 @@ sections:
         folders:
           - event
       count: 6
-    design:
-      view: article-grid
-      date_format: "January 2006"
-      columns: 2
+    #design:
+    #  view: article-grid
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
