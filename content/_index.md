@@ -68,7 +68,13 @@ sections:
     design:
       view: article-grid
       date_format: "Jan 2006"
-      columns: 3
+      show_authors: true
+      show_dates: true
+      show_event: true
+      show_locations: true
+      show_summary: false
+      columns: 2
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
