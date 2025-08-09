@@ -66,7 +66,7 @@ sections:
           - event
       count: 6
     design:
-      view: list
+      view: card-simple
   #    columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
