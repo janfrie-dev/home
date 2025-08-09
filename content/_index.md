@@ -66,8 +66,9 @@ sections:
           - event
       count: 6
     design:
-      view: compact
-  #    columns: 1
+      view: article-grid
+      date_format: "Jan 2006"
+      columns: 3
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
