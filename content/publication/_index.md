@@ -1,6 +1,6 @@
 ---
 title: Publications
-page_size: 50
+#page_size: 50
 cms_exclude: true
 
 # View.

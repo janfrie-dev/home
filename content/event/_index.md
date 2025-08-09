@@ -1,6 +1,6 @@
 ---
 title: Conferences
-page_size: 50
+#page_size: 50
 #cms_exclude: true
 #url: talk
 
