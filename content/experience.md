@@ -1,6 +1,6 @@
 ---
 title: 'Short CV'
-date: 2023-10-24
+date: 2025-08-09
 type: landing
 
 design:
