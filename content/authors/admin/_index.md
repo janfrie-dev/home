@@ -52,26 +52,27 @@ interests:
   - Lyapunov Stabilization of PDEs
   - Particle-based Optimization Methods
 
-
-education:
-  - area: Principal Investigator, SPP 2410
-    institution: German Research Foundation
+work:
+  - position: Principal Investigator, SPP 2410
+    company_name: German Research Foundation
     date_start: 2024-06-01
     date_end: 2027-05-31
     summary: |
       Project: [Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)](https://www.spp2410.uni-stuttgart.de/SPP-Projects/05_friedrich-goettlich/) 
-  - area: Postdoc in hyperbolic problems and control of PDEs
+  - position: Postdoc in hyperbolic problems and control of PDEs
+    company_name: RWTH Aachen University
     date_start: 2022-01-01
     date_end: 2025-08-31
-    institution: RWTH Aachen University
     summary: |
      Group of [Michael Herty](https://www.igpm.rwth-aachen.de/team/herty)
   - area: Postdoc in numerical analysis of nonlocal PDEs
+    company_name: University of Mannheim
     date_start: 2021-09-01
     date_end: 2021-12-31
-    institution: University of Mannheim
     summary: |
       Group of [Simone Göttlich](https://www.wim.uni-mannheim.de/goettlich/)
+
+education:
   - area: PhD in applied mathematics
     institution: University of Mannheim
     date_start: 2017-09-01
@@ -81,6 +82,18 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.researchgate.net/publication/356106210_Traffic_flow_models_with_nonlocal_velocity'
+  - area: M.Sc. in Business Mathematics
+    institution: University of Mannheim
+    date_start: 2015-02-01
+    date_end: 2017-08-31
+  - area: B.Sc. in Business Mathematics
+    institution: University of Mannheim
+    date_start: 2011-08-01
+    date_end: 2015-01-31
+  - area: Exchange Semester
+    institution: Swansea University, Wales
+    date_start: 2013-09-01
+    date_end: 2014-01-31
 ---
 
 ## About Me
