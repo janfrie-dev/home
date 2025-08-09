@@ -26,9 +26,12 @@
       </p>
       <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
         {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
-      </p>
-      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">
-        {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
+        {{ with $item.Location }}
+        <span> &middot; {{ . }}</span>
+        {{ end }}
+        {{ with $item.Event }}
+        <span> &middot; {{ . }}</span>
+        {{ end }}
       </p>
     </div>
   </div>
