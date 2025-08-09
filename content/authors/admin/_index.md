@@ -65,7 +65,7 @@ work:
     date_end: 2025-08-31
     summary: |
      Group of [Michael Herty](https://www.igpm.rwth-aachen.de/team/herty)
-  - area: Postdoc in numerical analysis of nonlocal PDEs
+  - position: Postdoc in numerical analysis of nonlocal PDEs
     company_name: University of Mannheim
     date_start: 2021-09-01
     date_end: 2021-12-31
