@@ -5,7 +5,7 @@ title: Conferences
 #url: talk
 
 # View
-view: compact
+view: card-simple
 
 design:
   # Hugo date format
