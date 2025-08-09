@@ -5,8 +5,8 @@ title: Conferences
 #url: talk
 
 # View
-view: list
-# view: card
+# view: list
+view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
