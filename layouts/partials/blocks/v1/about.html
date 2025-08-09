@@ -107,6 +107,21 @@
       </div>
       {{ end }}
 
+      {{ with $person.work }}
+      <div class="col-md-5">
+        <div class="section-subheading">{{ i18n "experience" | markdownify }}</div>
+        <ul class="ul-interests fa-ul mb-0">
+          {{ range . }}
+          <li>
+            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            <div class="description">
+              <p class="company_name">{{ .company_name }}</p>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
       {{ with $person.education }}
       <div class="col-md-7">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
