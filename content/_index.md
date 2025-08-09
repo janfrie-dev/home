@@ -64,6 +64,7 @@ sections:
       filters:
         folders:
           - event
+      count: 6
     design:
       view: article-grid
   #    columns: 1
