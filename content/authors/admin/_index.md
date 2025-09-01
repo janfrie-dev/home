@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Associate / Lecturer (Akademischer Rat)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
