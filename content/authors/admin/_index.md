@@ -61,7 +61,6 @@ work:
   - position: Principal Investigator, SPP 2410
     company_name: German Research Foundation
     date_start: 2024-06-01
-    date_end: 2027-05-31
     summary: |
       Project: [Balance laws with space-dependent nonlocalities: modeling, simulation and uncertainty quantification (NonLoc)](https://www.spp2410.uni-stuttgart.de/SPP-Projects/05_friedrich-goettlich/) 
   - position: Postdoc in hyperbolic problems and control of PDEs
