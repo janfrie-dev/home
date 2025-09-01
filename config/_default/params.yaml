@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Jan Friedrich. Office 127, Institut für Geometrie und Praktische Mathematik, RWTH Aachen, Templergraben 55, 52056 Aachen, Germany.'
+    notice: '© {year} Jan Friedrich. Room 03.06.055. Technical University of Munich. School of Computation, Information and Technology Department of Mathematics. Boltzmannstraße 3, 85748 Garching b. Munich, Germany.'
     license:
       enable: true
       allow_derivatives: false

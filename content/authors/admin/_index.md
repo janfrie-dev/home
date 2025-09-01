@@ -24,8 +24,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RWTH Aachen University
-    url: https://www.rwth-aachen.de
+  - name: Technical University of Munich
+    url: https://www.tum.de/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -53,6 +53,11 @@ interests:
   - Particle-based Optimization Methods
 
 work:
+  - position: Research Associate / Lecturer (Akademischer Rat)
+    company_name: Technical University of Munich
+    date_start: 2025-09-01
+    summary: |
+     Group of [Boris Vexler](https://www.math.cit.tum.de/en/math/people/professors/vexler-boris/)
   - position: Principal Investigator, SPP 2410
     company_name: German Research Foundation
     date_start: 2024-06-01
@@ -98,6 +103,6 @@ education:
 
 ## About Me
 
-Currently, I am a postdoctoral researcher at RWTH Aachen University. My research deals with hyperbolic partial differential equations, their applications and in particular their numerical approximation. One focus is on equations involving nonlocal terms. Here, I am one of the PIs of the project 'Balance laws with space-dependent nonlocalities' within the DFG SPP-2410 to explore those equations further.
+Currently, I am a researcher and lecturer at Technical University of Munich. My research deals with hyperbolic partial differential equations, their applications and in particular their numerical approximation. One focus is on equations involving nonlocal terms. Here, I am one of the PIs of the project 'Balance laws with space-dependent nonlocalities' within the DFG SPP-2410 to explore those equations further.
 
 Moreover, I have a great passion for teaching and have gained a lot of experience in this area in Aachen, at the University of Mannheim and recently at the IIPE, India.
