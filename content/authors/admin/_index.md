@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:friedrich@igpm.rwth-aachen.de'
+    url: 'mailto:jan.friedrich@cit.tum.de'
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6961-8998
