@@ -12,11 +12,12 @@ view: card
 image:
   caption: ''
   filename: ''
+
+# Include into body 
+# ## ⏳ Upcoming
+# - **[Hirschegg Workshop On Conservation Laws](https://www.hirschegg.ovgu.de/)**, Sep. 2025
+
 ---
-
-## ⏳ Upcoming
-
-- **[Hirschegg Workshop On Conservation Laws](https://www.hirschegg.ovgu.de/)**, Sep. 2025
 
 ## 🌍 Organizer
 

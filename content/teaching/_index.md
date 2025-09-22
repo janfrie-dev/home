@@ -20,7 +20,7 @@ sections:
       title: '👨‍🏫 Current semester'
       subtitle: ''
       text: |-
-        - **Mathematics for Civil Engineers 2** (Excercise class)
+        - **Nonlinear Optimization: Advanced** (Excercise class)
     design:
       columns: '2'
   - block: markdown
@@ -38,6 +38,7 @@ sections:
       title: '✍ Exercise classes'
       subtitle: ''
       text: |-
+        - **Nonlinear Optimization: Advanced**: WT 25 (Technical University of Munich)
         - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University)
         - **Mathematics for Civil Engineers 2**: ST25, ST24, ST23, ST22 (RWTH Aachen University)
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University), WT20, WT19 (University of Mannheim)
