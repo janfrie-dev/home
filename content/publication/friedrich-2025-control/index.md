@@ -4,7 +4,7 @@ authors:
 - Jan Friedrich
 - Michael Herty
 - Claudia Nocita
-date: '2025-01-01'
+date: '2025-10-01'
 publishDate: '2025-10-04T18:23:42.386623Z'
 publication_types:
 - article-journal
