@@ -16,6 +16,8 @@ marketing:
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
+  verification
+    google: "D7k1BjfzKSIAQNk2otEuxOUkPJc0luzMLG6wfvtpIkQ" 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -59,8 +61,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Google Search Console Verification
-services:
-  google:
-    site_verification: "D7k1BjfzKSIAQNk2otEuxOUkPJc0luzMLG6wfvtpIkQ" 
