@@ -14,8 +14,16 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Jan Friedrich (Mathematics) - personal webpage - publications, conferences, teaching, short cv.'
     twitter: 'GetResearchDev'
+    og_title: "Jan Friedrich - Personal Webpage"
+    og_description: 'My personal webpage - publications, conferences, teaching, short cv.'
+  structured_data:
+    type: "Person"
+    name: "Jan Friedrich"
+    url: "https://janfrie-dev.github.io/home/"
+    sameAs:
+        - "https://github.com/janfrie-dev"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
