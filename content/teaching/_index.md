@@ -17,7 +17,7 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: 'Upcoming semester'
+      title: '⏳ Upcoming semester'
       subtitle: ''
       text: |-
         - **Case Studies in  Optimization**

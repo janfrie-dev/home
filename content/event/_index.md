@@ -14,8 +14,8 @@ image:
   filename: ''
 
 # Include into body 
-# ## ⏳ Upcoming
-# - **[Hirschegg Workshop On Conservation Laws](https://www.hirschegg.ovgu.de/)**, Sep. 2025
+## ⏳ Upcoming
+- **[HYP2026](https://www.hyp2026.uni-stuttgart.de/)**, May 2026
 
 ---
 
