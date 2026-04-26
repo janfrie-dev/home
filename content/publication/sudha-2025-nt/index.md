@@ -9,5 +9,6 @@ date: '2025-11-20'
 publishDate: '2025-11-20T19:58:57.855704Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2501.14425*'
+doi: 10.1093/imanum/drag047
+publication: 'accepted to IMA Journal of Numerical Analysis, arXiv preprint arXiv:2501.14425'
 ---
