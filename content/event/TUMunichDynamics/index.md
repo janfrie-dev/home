@@ -1,5 +1,5 @@
 ---
-title: An introduction to nonlocal conservation laws: Theory and numerics
+title: An introduction to nonlocal conservation laws - Theory and numerics
 
 event: Dynamics (Oberseminar)
 
