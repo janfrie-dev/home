@@ -18,7 +18,7 @@ image:
 
 ## ⏳ Upcoming
 
-- **[HYP2026](https://www.hyp2026.uni-stuttgart.de/)**, May 2026
+- **[HYP2026](https://www.hyp2026.uni-stuttgart.de/)**, A nonlocal transport model for human blood cell dynamics (accepted), May 2026
 ## 🌍 Organizer
 
 - [Recent Trends in Optimization and Control: Follow-up Workshop](https://www.igpm.rwth-aachen.de/workshop/optcon2024), *Organizing & Scientific Committee*, Dakar, Senegal, Oct. 2024
