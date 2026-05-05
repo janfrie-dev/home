@@ -14,22 +14,22 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: markdown
-    id: teaching
-    content:
-      title: '⏳ Upcoming semester'
-      subtitle: ''
-      text: |-
-        - **Case Studies in  Optimization**
-    design:
-      columns: '2'
+ # - block: markdown
+ #   id: teaching
+ #   content:
+ #     title: '⏳ Upcoming semester'
+ #     subtitle: ''
+ #     text: |-
+ #       - **Case Studies in  Optimization**
+ #   design:
+ #     columns: '2'
   - block: markdown
     id: teaching
     content:
       title: '👨‍🏫 Current semester'
       subtitle: ''
       text: |-
-        - **Nonlinear Optimization: Advanced** (Excercise class)
+         - **Case Studies Optimization**
     design:
       columns: '2'
   - block: markdown
@@ -37,6 +37,7 @@ sections:
       title: '💭 Lectures'
       subtitle: ''
       text: |-
+        - **Case Studies Optimization**: ST: 26 (Technical University of Munich) 
         - **[Applications of scalar hyperbolic conservation laws](https://www.iipe.ac.in/ASHCL/workshop/)**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University)
         - **Numerical Methods for Ordinary Differential Equations**: WT21 (University of Mannheim)
