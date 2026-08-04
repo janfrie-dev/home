@@ -23,7 +23,7 @@ sections:
  #        - **Case Studies Optimization**
  #   design:
  #     columns: '2'
- - block: markdown
+  - block: markdown
     id: teaching
     content:
       title: '⏳ Upcoming semester'
