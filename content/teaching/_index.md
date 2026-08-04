@@ -37,7 +37,7 @@ sections:
       title: '💭 Lectures'
       subtitle: ''
       text: |-
-        - **Case Studies Optimization**: ST: 26 (Technical University of Munich) 
+        - **Case Studies Optimization**: ST26 (Technical University of Munich) 
         - **[Applications of scalar hyperbolic conservation laws](https://www.iipe.ac.in/ASHCL/workshop/)**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University)
         - **Numerical Methods for Ordinary Differential Equations**: WT21 (University of Mannheim)
@@ -48,7 +48,7 @@ sections:
       title: '✍ Exercise classes'
       subtitle: ''
       text: |-
-        - **Nonlinear Optimization: Advanced**: WT 25 (Technical University of Munich)
+        - **Nonlinear Optimization: Advanced**: WT25 (Technical University of Munich)
         - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University)
         - **Mathematics for Civil Engineers 2**: ST25, ST24, ST23, ST22 (RWTH Aachen University)
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University), WT20, WT19 (University of Mannheim)
