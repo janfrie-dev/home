@@ -14,24 +14,24 @@ cascade:
       show_breadcrumb: true
 
 sections:
+ - block: markdown
+    id: teaching
+    content:
+      title: '⏳ Upcoming semester'
+      subtitle: ''
+      text: |-
+        - **Höhere Mathematik 3 (UI/BI) (Numerik)**
+    design:
+      columns: '2'
  # - block: markdown
  #   id: teaching
  #   content:
- #     title: '⏳ Upcoming semester'
+ #     title: '👨‍🏫 Current semester'
  #     subtitle: ''
  #     text: |-
- #       - **Case Studies in  Optimization**
+ #        - **Case Studies Optimization**
  #   design:
  #     columns: '2'
-  - block: markdown
-    id: teaching
-    content:
-      title: '👨‍🏫 Current semester'
-      subtitle: ''
-      text: |-
-         - **Case Studies Optimization**
-    design:
-      columns: '2'
   - block: markdown
     content:
       title: '💭 Lectures'
