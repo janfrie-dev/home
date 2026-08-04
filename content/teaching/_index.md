@@ -57,7 +57,7 @@ sections:
         - **Numerics**: WT20, WT19, WT18, WT16, WT15 (University of Mannheim)
         - **Analysis for Business Informatics**: ST19 (University of Mannheim)
         - **Linear Optimization**: WT17 (University of Mannheim)
-        - **Analysis 1**: WT 15 (University of Mannheim)
+        - **Analysis 1**: WT15 (University of Mannheim)
     design:
       columns: '2'
   - block: markdown
