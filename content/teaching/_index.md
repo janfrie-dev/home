@@ -14,29 +14,30 @@ cascade:
       show_breadcrumb: true
 
 sections:
- # - block: markdown
- #   id: teaching
- #   content:
- #     title: '👨‍🏫 Current semester'
- #     subtitle: ''
- #     text: |-
- #        - **Case Studies Optimization**
- #   design:
- #     columns: '2'
   - block: markdown
     id: teaching
     content:
-      title: '⏳ Upcoming semester'
+      title: '👨‍🏫 Current semester'
       subtitle: ''
       text: |-
-        - **Höhere Mathematik 3 (UI/BI) (Numerik)**
+         - **Höhere Mathematik 3 (BI/UI) (Numerik, Lecture + Excercise class)**
     design:
       columns: '2'
+ # - block: markdown
+ #   id: teaching
+ #   content:
+ #     title: '⏳ Upcoming semester'
+ #     subtitle: ''
+ #     text: |-
+ #       - **Höhere Mathematik 3 (UI/BI) (Numerik)**
+ #   design:
+ #     columns: '2'
   - block: markdown
     content:
       title: '💭 Lectures'
       subtitle: ''
       text: |-
+        - **Höhere Mathematik 3 (BI/UI)**: WT26 (Technical University of Munich)
         - **Case Studies Optimization**: ST26 (Technical University of Munich) 
         - **[Applications of scalar hyperbolic conservation laws](https://www.iipe.ac.in/ASHCL/workshop/)**: Mar.'24, PhD-Course (Indian Institute of Petroleum and Energy)
         - **Applications of scalar conservation laws**: WT23 (RWTH Aachen University)
@@ -48,6 +49,7 @@ sections:
       title: '✍ Exercise classes'
       subtitle: ''
       text: |-
+        - **Höhere Mathematik 3 (BI/UI)**: WT26 (Technical University of Munich)
         - **Nonlinear Optimization: Advanced**: WT25 (Technical University of Munich)
         - **Mathematics for Civil Engineers 1**: WT24, WT23, WT22 (RWTH Aachen University)
         - **Mathematics for Civil Engineers 2**: ST25, ST24, ST23, ST22 (RWTH Aachen University)
